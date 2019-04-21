@@ -115,7 +115,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </pageControl>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="hLz-zd-etx">
-                                <rect key="frame" x="87" y="156" width="240" height="128"/>
+                                <rect key="frame" x="37" y="156" width="337" height="185"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <string key="text">We are a 501(c)(3) approved organization which aims to introduce sports to young children. Due to poverty, many children never get a chance to participate in sports. One of the many things we do is to provide free athletic wear and equipment to underprivileged children and youth. We also have gently used athletic gear like soccer balls, bags, socks etc. We have donations from school teams and hence are able to provide gear to an entire team if needed.</string>
