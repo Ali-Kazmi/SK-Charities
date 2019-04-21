@@ -14,6 +14,7 @@
 		417BD632226D210400976A11 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 417BD630226D210400976A11 /* LaunchScreen.storyboard */; };
 		417BD63D226D210400976A11 /* SK_CharitiesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 417BD63C226D210400976A11 /* SK_CharitiesTests.swift */; };
 		417BD648226D210400976A11 /* SK_CharitiesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 417BD647226D210400976A11 /* SK_CharitiesUITests.swift */; };
+		EA169AE3226D360100AFB0A3 /* skcharitieslogo.png in Resources */ = {isa = PBXBuildFile; fileRef = EA169AE2226D360000AFB0A3 /* skcharitieslogo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		417BD643226D210400976A11 /* SK CharitiesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SK CharitiesUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		417BD647226D210400976A11 /* SK_CharitiesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SK_CharitiesUITests.swift; sourceTree = "<group>"; };
 		417BD649226D210400976A11 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EA169AE2226D360000AFB0A3 /* skcharitieslogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = skcharitieslogo.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				417BD63B226D210400976A11 /* SK CharitiesTests */,
 				417BD646226D210400976A11 /* SK CharitiesUITests */,
 				417BD625226D210300976A11 /* Products */,
+				EA169AE2226D360000AFB0A3 /* skcharitieslogo.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				417BD632226D210400976A11 /* LaunchScreen.storyboard in Resources */,
+				EA169AE3226D360100AFB0A3 /* skcharitieslogo.png in Resources */,
 				417BD62F226D210400976A11 /* Assets.xcassets in Resources */,
 				417BD62D226D210300976A11 /* Main.storyboard in Resources */,
 			);
