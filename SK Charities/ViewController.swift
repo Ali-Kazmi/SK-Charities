@@ -6,6 +6,7 @@
 //  Copyright © 2019 ali. All rights reserved.
 //
 
+//merge conflict comment
 import UIKit
 
 class ViewController: UIViewController {
