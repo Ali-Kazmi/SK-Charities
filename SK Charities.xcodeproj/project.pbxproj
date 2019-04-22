@@ -15,7 +15,6 @@
 		417BD63D226D210400976A11 /* SK_CharitiesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 417BD63C226D210400976A11 /* SK_CharitiesTests.swift */; };
 		417BD648226D210400976A11 /* SK_CharitiesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 417BD647226D210400976A11 /* SK_CharitiesUITests.swift */; };
 		913C92E1226D3D3B004DB86C /* 29872922_925779077590904_8797160701115647120_o.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 913C92E0226D3D3B004DB86C /* 29872922_925779077590904_8797160701115647120_o.jpg */; };
-		913C92E3226D3DD2004DB86C /* mainpagesk.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 913C92E2226D3DD2004DB86C /* mainpagesk.jpg */; };
 		913C92E5226D3E82004DB86C /* Soccer example.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 913C92E4226D3E82004DB86C /* Soccer example.jpg */; };
 		913C92E7226D3FB2004DB86C /* Uniform example.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 913C92E6226D3FB2004DB86C /* Uniform example.jpg */; };
 /* End PBXBuildFile section */
@@ -52,9 +51,9 @@
 		417BD647226D210400976A11 /* SK_CharitiesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SK_CharitiesUITests.swift; sourceTree = "<group>"; };
 		417BD649226D210400976A11 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		913C92E0226D3D3B004DB86C /* 29872922_925779077590904_8797160701115647120_o.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 29872922_925779077590904_8797160701115647120_o.jpg; path = ../../../Desktop/29872922_925779077590904_8797160701115647120_o.jpg; sourceTree = "<group>"; };
-		913C92E2226D3DD2004DB86C /* mainpagesk.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = mainpagesk.jpg; path = ../../Desktop/mainpagesk.jpg; sourceTree = "<group>"; };
 		913C92E4226D3E82004DB86C /* Soccer example.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Soccer example.jpg"; sourceTree = "<group>"; };
 		913C92E6226D3FB2004DB86C /* Uniform example.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Uniform example.jpg"; sourceTree = "<group>"; };
+		913C92E8226D46CC004DB86C /* mainpagesk.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mainpagesk.jpg; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,7 +88,7 @@
 				417BD63B226D210400976A11 /* SK CharitiesTests */,
 				417BD646226D210400976A11 /* SK CharitiesUITests */,
 				417BD625226D210300976A11 /* Products */,
-				913C92E2226D3DD2004DB86C /* mainpagesk.jpg */,
+				913C92E8226D46CC004DB86C /* mainpagesk.jpg */,
 				913C92E4226D3E82004DB86C /* Soccer example.jpg */,
 				913C92E6226D3FB2004DB86C /* Uniform example.jpg */,
 			);
@@ -245,7 +244,6 @@
 				417BD62F226D210400976A11 /* Assets.xcassets in Resources */,
 				913C92E7226D3FB2004DB86C /* Uniform example.jpg in Resources */,
 				417BD62D226D210300976A11 /* Main.storyboard in Resources */,
-				913C92E3226D3DD2004DB86C /* mainpagesk.jpg in Resources */,
 				913C92E5226D3E82004DB86C /* Soccer example.jpg in Resources */,
 				913C92E1226D3D3B004DB86C /* 29872922_925779077590904_8797160701115647120_o.jpg in Resources */,
 			);

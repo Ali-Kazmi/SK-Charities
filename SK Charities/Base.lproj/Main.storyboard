@@ -192,9 +192,6 @@ After outgrowing their athletic gear, many children put aside their gear and sto
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" image="Uniform example.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="Fyb-gb-qbA">
                                 <rect key="frame" x="275" y="371" width="114" height="153"/>
                             </imageView>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" image="mainpagesk.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="bnT-ov-ARn">
-                                <rect key="frame" x="-701.5" y="78" width="1817" height="85"/>
-                            </imageView>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" ambiguous="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="hLz-zd-etx">
                                 <rect key="frame" x="39" y="181" width="345" height="185"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -209,17 +206,19 @@ After outgrowing their athletic gear, many children put aside their gear and sto
                                 <rect key="frame" x="126" y="774" width="171" height="30"/>
                                 <state key="normal" title="Contribute to our Charity"/>
                             </button>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" misplaced="YES" image="mainpagesk.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="Jl4-XW-pP1">
+                                <rect key="frame" x="-697" y="62" width="1817" height="99"/>
+                            </imageView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
                             <constraint firstItem="WWG-4n-Z7A" firstAttribute="top" secondItem="STE-cY-y21" secondAttribute="bottom" constant="15" id="64C-ck-mUx"/>
                             <constraint firstItem="Fyb-gb-qbA" firstAttribute="top" secondItem="hLz-zd-etx" secondAttribute="bottom" constant="5" id="9Q1-Di-QhI"/>
-                            <constraint firstItem="bnT-ov-ARn" firstAttribute="centerX" secondItem="KOX-jz-z7J" secondAttribute="centerX" id="HT4-Lj-PHx"/>
                             <constraint firstItem="STE-cY-y21" firstAttribute="top" secondItem="xhe-xT-nt5" secondAttribute="bottom" constant="10" id="Jvp-he-hFR"/>
                             <constraint firstItem="xhe-xT-nt5" firstAttribute="centerX" secondItem="KOX-jz-z7J" secondAttribute="centerX" id="S29-oE-cEX"/>
                             <constraint firstItem="xpY-pi-Kax" firstAttribute="centerX" secondItem="KOX-jz-z7J" secondAttribute="centerX" id="gfd-Bt-3Kl"/>
                             <constraint firstItem="CiV-bz-Iu5" firstAttribute="centerY" secondItem="KOX-jz-z7J" secondAttribute="centerY" id="gpH-BX-ddv"/>
-                            <constraint firstItem="hLz-zd-etx" firstAttribute="top" secondItem="bnT-ov-ARn" secondAttribute="bottom" constant="20" id="opP-V0-9T4"/>
+                            <constraint firstItem="Jl4-XW-pP1" firstAttribute="centerX" secondItem="KOX-jz-z7J" secondAttribute="centerX" id="tQJ-Lg-fLp"/>
                             <constraint firstItem="xhe-xT-nt5" firstAttribute="top" secondItem="Fyb-gb-qbA" secondAttribute="bottom" constant="25" id="uie-qH-5TD"/>
                             <constraint firstItem="xhe-xT-nt5" firstAttribute="centerX" secondItem="KOX-jz-z7J" secondAttribute="centerX" id="wP3-on-3Bn"/>
                         </constraints>
@@ -262,7 +261,7 @@ After outgrowing their athletic gear, many children put aside their gear and sto
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="xCk-o4-Du7">
-                                <rect key="frame" x="89" y="-368" width="414" height="896"/>
+                                <rect key="frame" x="20" y="-122" width="414" height="896"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <viewLayoutGuide key="safeArea" id="wEZ-Xi-9rv"/>
