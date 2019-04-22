@@ -94,7 +94,7 @@
                                 <state key="normal" title="https://www.facebook.com/skcharities/"/>
                             </button>
                         </subviews>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <color key="backgroundColor" red="0.57603073120117188" green="0.9866296648979187" blue="0.83135706186294556" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                         <constraints>
                             <constraint firstItem="QGn-WQ-w7I" firstAttribute="centerX" secondItem="TDd-lK-Rpg" secondAttribute="centerX" id="2IJ-z3-Ukr"/>
                             <constraint firstItem="lh6-XW-D6D" firstAttribute="centerX" secondItem="TDd-lK-Rpg" secondAttribute="centerX" id="JTa-ZX-mTV"/>
@@ -373,8 +373,15 @@ After outgrowing their athletic gear, many children put aside their gear and sto
                                         <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                         <state key="normal" title="Not A Receiver - Return to Homescreen"/>
                                     </button>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Receiver" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ms3-Ey-15D">
+                                        <rect key="frame" x="62" y="392" width="112" height="36"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
                                 </subviews>
-                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <color key="backgroundColor" red="0.57603073120117188" green="0.9866296648979187" blue="0.83135706186294556" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <constraints>
                                     <constraint firstItem="TQ5-Z7-DGe" firstAttribute="top" secondItem="qNT-zz-qI9" secondAttribute="bottom" constant="50" id="3zB-N3-QUy"/>
                                     <constraint firstItem="aZ8-nu-jin" firstAttribute="top" secondItem="TQ5-Z7-DGe" secondAttribute="bottom" constant="50" id="crW-7N-86b"/>
@@ -408,7 +415,7 @@ After outgrowing their athletic gear, many children put aside their gear and sto
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <color key="backgroundColor" red="0.57603073120117188" green="0.9866296648979187" blue="0.83135706186294556" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                         <constraints>
                             <constraint firstItem="Xax-gb-EaU" firstAttribute="top" secondItem="O9o-bx-Gzf" secondAttribute="bottom" constant="50" id="4DC-BX-srt"/>
                         </constraints>
