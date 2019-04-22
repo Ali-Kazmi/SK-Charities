@@ -12,9 +12,15 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
     }
-
-
+    override func didReceiveMemoryWarning() {
+        super.didReceiveMemoryWarning()
+    }
+    @IBAction func onbuttonWasPressed(_ sender: Any) {
+        
+        UIApplication.shared.open(URL(string: "www.skcharities.org")! as URL, options: [:], completionHandler: nil)
+    }
+    
 }
 
