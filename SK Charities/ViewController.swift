@@ -10,16 +10,14 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
     }
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-    }
-    @IBAction func onbuttonWasPressed(_ sender: Any) {
+    @IBAction func linkSKCharities(_ sender: UIButton) {
+        UIApplication.shared.open(URL(string:"www.skcharities.org")! as URL, options: [:], completionHandler: nil)
         
-        UIApplication.shared.open(URL(string: "www.skcharities.org")! as URL, options: [:], completionHandler: nil)
     }
     
 }
