@@ -62,45 +62,42 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Phone: (408) 784-4583" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="IF7-Ed-6qE">
-                                <rect key="frame" x="21" y="259" width="267" height="30"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Email: shevali@donatejerseys.com" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="QGn-WQ-w7I">
-                                <rect key="frame" x="20" y="329" width="372" height="30"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Email: info@skcharities.org" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="QGn-WQ-w7I">
+                                <rect key="frame" x="21" y="259" width="290" height="30"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Visit us at:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="j6G-aP-tZh">
-                                <rect key="frame" x="21" y="385" width="371" height="70"/>
+                                <rect key="frame" x="21" y="321" width="371" height="70"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zlR-4z-6YU">
-                                <rect key="frame" x="20" y="463" width="175" height="36"/>
+                                <rect key="frame" x="21" y="407" width="175" height="36"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="20"/>
                                 <state key="normal" title="www.skcharities.org"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="DBT-qy-el4">
-                                <rect key="frame" x="20" y="527" width="343" height="36"/>
+                                <rect key="frame" x="20" y="484" width="343" height="36"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="20"/>
                                 <state key="normal" title="https://www.facebook.com/skcharities/"/>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="eHv-C7-R7z">
+                                <rect key="frame" x="117" y="565" width="181" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Return to the Homescreen"/>
                             </button>
                         </subviews>
                         <color key="backgroundColor" red="0.57603073120117188" green="0.9866296648979187" blue="0.83135706186294556" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                         <constraints>
                             <constraint firstItem="QGn-WQ-w7I" firstAttribute="centerX" secondItem="TDd-lK-Rpg" secondAttribute="centerX" id="2IJ-z3-Ukr"/>
                             <constraint firstItem="lh6-XW-D6D" firstAttribute="centerX" secondItem="TDd-lK-Rpg" secondAttribute="centerX" id="JTa-ZX-mTV"/>
-                            <constraint firstItem="IF7-Ed-6qE" firstAttribute="centerY" secondItem="TDd-lK-Rpg" secondAttribute="centerY" constant="-148" id="RaD-2L-2G0"/>
                             <constraint firstItem="lh6-XW-D6D" firstAttribute="centerY" secondItem="TDd-lK-Rpg" secondAttribute="centerY" id="V87-Jx-XsI"/>
-                            <constraint firstItem="IF7-Ed-6qE" firstAttribute="centerX" secondItem="TDd-lK-Rpg" secondAttribute="centerX" constant="-7.5" id="f5P-a7-dr6"/>
                             <constraint firstItem="QGn-WQ-w7I" firstAttribute="centerY" secondItem="TDd-lK-Rpg" secondAttribute="centerY" id="jSE-de-ZGu"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="CFz-yU-jGc"/>
@@ -367,12 +364,6 @@ After outgrowing their athletic gear, many children put aside their gear and sto
                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                         <textInputTraits key="textInputTraits"/>
                                     </textField>
-                                    <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jH6-rV-6vA">
-                                        <rect key="frame" x="-42" y="862" width="320" height="34"/>
-                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                        <fontDescription key="fontDescription" type="system" pointSize="18"/>
-                                        <state key="normal" title="Not A Receiver - Return to Homescreen"/>
-                                    </button>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Receiver" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ms3-Ey-15D">
                                         <rect key="frame" x="62" y="392" width="112" height="36"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -380,6 +371,12 @@ After outgrowing their athletic gear, many children put aside their gear and sto
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
                                     </label>
+                                    <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="AMB-jX-CoZ">
+                                        <rect key="frame" x="88" y="839" width="61" height="48"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                        <state key="normal" title="Next"/>
+                                    </button>
                                 </subviews>
                                 <color key="backgroundColor" red="0.57603073120117188" green="0.9866296648979187" blue="0.83135706186294556" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <constraints>
@@ -414,6 +411,12 @@ After outgrowing their athletic gear, many children put aside their gear and sto
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jH6-rV-6vA">
+                                <rect key="frame" x="47" y="628" width="320" height="34"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="18"/>
+                                <state key="normal" title="Not A Receiver - Return to Homescreen"/>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" red="0.57603073120117188" green="0.9866296648979187" blue="0.83135706186294556" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                         <constraints>
