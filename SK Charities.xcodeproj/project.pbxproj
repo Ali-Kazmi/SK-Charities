@@ -17,6 +17,7 @@
 		913C92E1226D3D3B004DB86C /* 29872922_925779077590904_8797160701115647120_o.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 913C92E0226D3D3B004DB86C /* 29872922_925779077590904_8797160701115647120_o.jpg */; };
 		913C92E5226D3E82004DB86C /* Soccer example.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 913C92E4226D3E82004DB86C /* Soccer example.jpg */; };
 		913C92E7226D3FB2004DB86C /* Uniform example.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 913C92E6226D3FB2004DB86C /* Uniform example.jpg */; };
+		EA86EDB5226D44DA002B18D5 /* skcharitieslogo.png in Resources */ = {isa = PBXBuildFile; fileRef = EA86EDB4226D44DA002B18D5 /* skcharitieslogo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,7 +54,7 @@
 		913C92E0226D3D3B004DB86C /* 29872922_925779077590904_8797160701115647120_o.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 29872922_925779077590904_8797160701115647120_o.jpg; path = ../../../Desktop/29872922_925779077590904_8797160701115647120_o.jpg; sourceTree = "<group>"; };
 		913C92E4226D3E82004DB86C /* Soccer example.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Soccer example.jpg"; sourceTree = "<group>"; };
 		913C92E6226D3FB2004DB86C /* Uniform example.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Uniform example.jpg"; sourceTree = "<group>"; };
-		913C92E8226D46CC004DB86C /* mainpagesk.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mainpagesk.jpg; sourceTree = SOURCE_ROOT; };
+		EA86EDB4226D44DA002B18D5 /* skcharitieslogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = skcharitieslogo.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +92,7 @@
 				913C92E8226D46CC004DB86C /* mainpagesk.jpg */,
 				913C92E4226D3E82004DB86C /* Soccer example.jpg */,
 				913C92E6226D3FB2004DB86C /* Uniform example.jpg */,
+				EA86EDB4226D44DA002B18D5 /* skcharitieslogo.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -110,7 +112,6 @@
 				417BD627226D210300976A11 /* AppDelegate.swift */,
 				417BD629226D210300976A11 /* ViewController.swift */,
 				417BD62B226D210300976A11 /* Main.storyboard */,
-				913C92E0226D3D3B004DB86C /* 29872922_925779077590904_8797160701115647120_o.jpg */,
 				417BD62E226D210400976A11 /* Assets.xcassets */,
 				417BD630226D210400976A11 /* LaunchScreen.storyboard */,
 				417BD633226D210400976A11 /* Info.plist */,
@@ -241,11 +242,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				417BD632226D210400976A11 /* LaunchScreen.storyboard in Resources */,
+				EA86EDB5226D44DA002B18D5 /* skcharitieslogo.png in Resources */,
 				417BD62F226D210400976A11 /* Assets.xcassets in Resources */,
 				913C92E7226D3FB2004DB86C /* Uniform example.jpg in Resources */,
 				417BD62D226D210300976A11 /* Main.storyboard in Resources */,
 				913C92E5226D3E82004DB86C /* Soccer example.jpg in Resources */,
-				913C92E1226D3D3B004DB86C /* 29872922_925779077590904_8797160701115647120_o.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
