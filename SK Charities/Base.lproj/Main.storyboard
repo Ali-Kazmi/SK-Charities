@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
-    <device id="retina6_1" orientation="portrait">
+    <device id="retina6_5" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
@@ -166,7 +166,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="ABOUT US" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xpY-pi-Kax">
-                                <rect key="frame" x="165" y="161" width="84.5" height="21"/>
+                                <rect key="frame" x="164.66666666666666" y="161" width="85" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -184,8 +184,8 @@
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" ambiguous="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="STE-cY-y21">
                                 <rect key="frame" x="39" y="580" width="345" height="183"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <string key="text">We accept donations for all over the US and are open to monetary donations as well. These donations go towards teams needing money for travel costs etc.
-After outgrowing their athletic gear, many children put aside their gear and store it in their house. Instead of storing away the gear, please encourage your child to donate it and it can be used to help the underprivileged children get a chance to play the sport they love.</string>
+                                <string key="text">     We accept donations for all over the US and are open to monetary donations as well. These donations go towards teams needing money for travel costs etc.
+     After outgrowing their athletic gear, many children put aside their gear and store it in their house. Instead of storing away the gear, please encourage your child to donate it and it can be used to help the underprivileged children get a chance to play the sport they love.</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -205,7 +205,7 @@ After outgrowing their athletic gear, many children put aside their gear and sto
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" ambiguous="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="hLz-zd-etx">
                                 <rect key="frame" x="30" y="181" width="345" height="185"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <string key="text">We are a 501(c)(3) approved organization which aims to introduce sports to young children. Due to poverty, many children never get a chance to participate in sports. One of the many things we do is to provide free athletic wear and equipment to underprivileged children and youth. We also have gently used athletic gear like soccer balls, bags, socks etc. We have donations from school teams and hence are able to provide gear to an entire team if needed.</string>
+                                <string key="text">     We are a 501(c)(3) approved organization which aims to introduce sports to young children. Due to poverty, many children never get a chance to participate in sports. One of the many things we do is to provide free athletic wear and equipment to underprivileged children and youth. We also have gently used athletic gear like soccer balls, bags, socks etc. We have donations from school teams and hence are able to provide gear to an entire team if needed.</string>
                                 <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -287,8 +287,8 @@ After outgrowing their athletic gear, many children put aside their gear and sto
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
                                     </label>
-                                    <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" ambiguous="YES" text="Have come to your school to discuss the significance of concussion awareness and her project." textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="mGQ-Lv-Gka">
-                                        <rect key="frame" x="34" y="154" width="346" height="128"/>
+                                    <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" ambiguous="YES" text="Have Shevali come to your school to discuss the significance of concussion awareness and her project." textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="mGQ-Lv-Gka">
+                                        <rect key="frame" x="34" y="154" width="346" height="88"/>
                                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="20"/>
                                         <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
