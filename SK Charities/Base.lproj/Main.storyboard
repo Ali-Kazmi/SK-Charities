@@ -165,13 +165,6 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Stephanie - about us" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="L6h-Zr-NVm">
-                                <rect key="frame" x="71" y="59" width="223" height="23"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="ABOUT US" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xpY-pi-Kax">
                                 <rect key="frame" x="165" y="161" width="84.5" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
@@ -188,45 +181,46 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="STE-cY-y21">
-                                <rect key="frame" x="39" y="578" width="345" height="183"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" ambiguous="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="STE-cY-y21">
+                                <rect key="frame" x="39" y="580" width="345" height="183"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <string key="text">We accept donations for all over the US and are open to monetary donations as well. These donations go towards teams needing money for travel costs etc.
 After outgrowing their athletic gear, many children put aside their gear and store it in their house. Instead of storing away the gear, please encourage your child to donate it and it can be used to help the underprivileged children get a chance to play the sport they love.</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Uniform example.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="Fyb-gb-qbA">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" image="Uniform example.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="Fyb-gb-qbA">
                                 <rect key="frame" x="275" y="371" width="114" height="153"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="mainpagesk.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="bnT-ov-ARn">
-                                <rect key="frame" x="62" y="78" width="322" height="85"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" image="mainpagesk.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="bnT-ov-ARn">
+                                <rect key="frame" x="-701.5" y="78" width="1817" height="85"/>
                             </imageView>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="hLz-zd-etx">
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" ambiguous="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="hLz-zd-etx">
                                 <rect key="frame" x="39" y="181" width="345" height="185"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <string key="text">We are a 501(c)(3) approved organization which aims to introduce sports to young children. Due to poverty, many children never get a chance to participate in sports. One of the many things we do is to provide free athletic wear and equipment to underprivileged children and youth. We also have gently used athletic gear like soccer balls, bags, socks etc. We have donations from school teams and hence are able to provide gear to an entire team if needed.</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Soccer example.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="CiV-bz-Iu5">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" misplaced="YES" image="Soccer example.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="CiV-bz-Iu5">
                                 <rect key="frame" x="39" y="371" width="233" height="154"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WWG-4n-Z7A">
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WWG-4n-Z7A">
                                 <rect key="frame" x="126" y="774" width="171" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Contribute to our Charity"/>
                             </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
+                            <constraint firstItem="WWG-4n-Z7A" firstAttribute="top" secondItem="STE-cY-y21" secondAttribute="bottom" constant="15" id="64C-ck-mUx"/>
+                            <constraint firstItem="Fyb-gb-qbA" firstAttribute="top" secondItem="hLz-zd-etx" secondAttribute="bottom" constant="5" id="9Q1-Di-QhI"/>
+                            <constraint firstItem="bnT-ov-ARn" firstAttribute="centerX" secondItem="KOX-jz-z7J" secondAttribute="centerX" id="HT4-Lj-PHx"/>
+                            <constraint firstItem="STE-cY-y21" firstAttribute="top" secondItem="xhe-xT-nt5" secondAttribute="bottom" constant="10" id="Jvp-he-hFR"/>
                             <constraint firstItem="xhe-xT-nt5" firstAttribute="centerX" secondItem="KOX-jz-z7J" secondAttribute="centerX" id="S29-oE-cEX"/>
                             <constraint firstItem="xpY-pi-Kax" firstAttribute="centerX" secondItem="KOX-jz-z7J" secondAttribute="centerX" id="gfd-Bt-3Kl"/>
+                            <constraint firstItem="CiV-bz-Iu5" firstAttribute="centerY" secondItem="KOX-jz-z7J" secondAttribute="centerY" id="gpH-BX-ddv"/>
+                            <constraint firstItem="hLz-zd-etx" firstAttribute="top" secondItem="bnT-ov-ARn" secondAttribute="bottom" constant="20" id="opP-V0-9T4"/>
+                            <constraint firstItem="xhe-xT-nt5" firstAttribute="top" secondItem="Fyb-gb-qbA" secondAttribute="bottom" constant="25" id="uie-qH-5TD"/>
                             <constraint firstItem="xhe-xT-nt5" firstAttribute="centerX" secondItem="KOX-jz-z7J" secondAttribute="centerX" id="wP3-on-3Bn"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="Jhk-4q-dyr"/>
