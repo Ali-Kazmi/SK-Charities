@@ -10,10 +10,13 @@ Team member names and roles are below.
 
 Advisor: Shailaja Venkatsubramanyan (Former databases professor at SJSU) 
 
-Ali- 
-Joshua- 
+Team Leads:
+Ali- Director of Software Engineering, Database Administrator, Github Instructor 
+Joshua- Director of Software Engineering   
 
-
-Dhruv- 
-Shivali- 
-Stephanie- (no xcode access) 
+Team: 
+Dhruv- Programmer 
+Keya- Programmer 
+Shivali- business decisions and specifications (and programmer)  
+Stephanie- (no xcode access) programmer
+Pranav- Databases advisor
