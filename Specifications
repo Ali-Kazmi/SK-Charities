@@ -1,0 +1,26 @@
+This document is a list of planned features, and a general brainstorm from our meeting on 4/21. It is subject (and likely!) to change! 
+
+Login page (google login api for secure password handling) 
+Donations or accept donations – two different types of accounts
+Concussion awareness program? (possibly not in this app) 
+(?) Third login page for concussion awareness schedules, see if they’d like to schedule one
+
+They should be able to put name, what kind of gear they’d like to donate, all goes into a database
+Should be able to access database and contact college for what kind of gear they’d like to donate
+Once they click Concussion Awareness they’d be able to go to a calendar and schedule new events, or maybe figure out what events have already been scheduled
+Wireframing- come up with how each page of the app will look like
+1)	Page where the person can input donations or gear into a database
+a.	Login, and they’ll put in name, contact information, school
+b.	Next page will have a textbox where they register what kind of gear they have
+i.	Jerseys, shorts, athletic gear, helmets, shoes
+c.	Upload pictures of the stuff and add a description that goes along with it
+d.	Messaging component to get each other’s contact information? – nah doesn’t need to be messaging
+2)	Someone who can accept donations and see what they want donated
+a.	Login, put their information (type of gear, which college)
+b.	Messaging system within the app so that they can directly connect with each other
+c.	Sends an email to the person – goes through a verification process
+d.	How much of a certain quantity can be ordered on the ordering page.
+3)	Concussion awareness program- see calendar and/or input events
+a.	People who login propose the date that they’d like to have the person come in to speak
+b.	Only the person
+c.	Receive information via email
