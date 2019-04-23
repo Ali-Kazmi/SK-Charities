@@ -17,6 +17,6 @@ Joshua- Director of Software Engineering
 Team: 
 Dhruv- Programmer 
 Keya- Programmer 
-Shivali- business decisions and specifications (and programmer)  
+Shevali- business decisions and specifications (and programmer)  
 Stephanie- (no xcode access) programmer
 Pranav- Databases advisor
